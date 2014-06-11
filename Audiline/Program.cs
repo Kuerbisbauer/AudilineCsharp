@@ -14,7 +14,7 @@ namespace Audiline
         [STAThread]
         static void Main()
         {
-            Console.WriteLine("YOLOSWAGGINS123");
+            Console.WriteLine("YOLOSWAGGINS");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
